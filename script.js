@@ -46,3 +46,7 @@ function clear() {
     display.innerText = ''  
     equation = '' 
 }
+
+
+//collab with Grace, Jo, Alfred
+//assist Azalea, Santana
